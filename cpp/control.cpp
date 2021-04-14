@@ -1,5 +1,6 @@
 #include "control.h"
 #include "windows.h"
+
 HANDLE consoleHandle = GetStdHandle(STD_OUTPUT_HANDLE);
 CONSOLE_CURSOR_INFO info;
 void hidecursor() {
