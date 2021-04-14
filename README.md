@@ -39,7 +39,7 @@ COMMANDS
 - LEFT: moves the machine to the left
 
 # Authors
-Beatrice Zamagna
-Irene Burri
-Francesca Chiriacò
+Beatrice Zamagna,
+Irene Burri,
+Francesca Chiriacò,
 Simone Zimotti
