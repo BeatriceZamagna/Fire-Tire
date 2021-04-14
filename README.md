@@ -33,6 +33,11 @@ At the end, a screen will be displayed indicating the score established in the c
 
 COMMANDS
 
+# Authors
+Beatrice Zamagna
+Irene Burri
+Francesca Chiriacò
+Simone Zimotti
 - UP: moves the machine forward
 - DOWN: moves the machine back
 - RIGHT: moves the machine to the right
