@@ -33,6 +33,11 @@ At the end, a screen will be displayed indicating the score established in the c
 
 COMMANDS
 
+- UP: moves the machine forward
+- DOWN: moves the machine back
+- RIGHT: moves the machine to the right
+- LEFT: moves the machine to the left
+
 # Authors
 Beatrice Zamagna
 Irene Burri
